@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mohd Aafak 👋
 
-<!--
-**Mohd-Aafak/Mohd-Aafak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech graduate (2026) passionate about frontend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning React.js
+- 🛠️ Building projects using HTML, CSS and JavaScript
+- 🚀 Working on my Personal Portfolio and Todo App
+- 🎯 Goal: Become a skilled Frontend Developer
+
+### 🧰 Skills
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Git & GitHub
+
+### 📂 My Projects
+- 🌐 Personal Portfolio Website
+- ✅ Todo App
+
+### 📫 Connect with me
+- GitHub: [My GitHub Profile](https://github.com/)
+
+---
+⭐ Thanks for visiting my profile!
