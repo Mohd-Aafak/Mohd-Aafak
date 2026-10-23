@@ -21,7 +21,7 @@ I'm a B.Tech graduate (2026) passionate about frontend development.
 - ✅ Todo App
 
 ### 📫 Connect with me
-- GitHub: [My GitHub Profile](https://github.com/)
+- GitHub: [My GitHub Profile](https://github.com/Mohd-Aafak)
 
 ---
 ⭐ Thanks for visiting my profile!
