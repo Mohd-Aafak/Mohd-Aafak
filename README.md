@@ -33,7 +33,7 @@ I'm a B.Tech graduate (2026) passionate about frontend development.
 
 - ### 🎓 UniFinder – University Search App
 
-A university search application built using HTML, CSS, and JavaScript that helps users explore universities from different countries.
+A university search application built using HTML, CSS, and JavaScript to explore universities from different countries.
 
 **✨ Features**
 - 🔍 Search universities by name
@@ -42,13 +42,12 @@ A university search application built using HTML, CSS, and JavaScript that helps
 - ⭐ Add and remove favorite universities
 - 💾 Save favorites using LocalStorage
 - 🌙 Dark/Light theme toggle
-- 📱 Responsive user interface
 
-**🛠️ Tech Stack:** HTML5, CSS3, JavaScript
+**🛠️ Tech Stack:** HTML, CSS, JavaScript
 
-🚀 **[Live Demo](https://mohd-aafak.github.io/UniFinder/)**
+🚀 [Live Demo](https://mohd-aafak.github.io/UniFinder/)
 
-💻 **[GitHub Repository](https://github.com/Mohd-Aafak/UniFinder)**
+💻 [View Source Code](https://github.com/Mohd-Aafak/UniFinder)
 
 ### 📫 Connect with me
 - GitHub: [My GitHub Profile](https://github.com/Mohd-Aafak)
