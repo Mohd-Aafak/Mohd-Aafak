@@ -31,7 +31,7 @@ I'm a B.Tech graduate (2026) passionate about frontend development.
 - 🔗 [Live Demo](https://mohd-aafak.github.io/Todo-app/)
 - 💻 [Source Code](https://github.com/Mohd-Aafak/Todo-app)
 
-**3. 🎓 UniFinder – University Search App
+3. 🎓 UniFinder – University Search App
 
 A university search application built using HTML, CSS, and JavaScript to explore universities from different countries.
 
